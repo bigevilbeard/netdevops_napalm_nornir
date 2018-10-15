@@ -1,0 +1,5 @@
+---
+rtr1:
+    groups:
+        - routers
+    nornir_host: 127.0.0.1

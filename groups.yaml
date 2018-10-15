@@ -1,0 +1,6 @@
+---
+routers:
+    nornir_username: vagrant
+    nornir_password: vagrant
+    nornir_nos: iosxr
+    nornir_ssh_port: 2221
