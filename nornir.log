@@ -1,0 +1,72 @@
+2018-10-29 10:27:40,226 -       nornir -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 20
+2018-10-29 10:27:40,226 -       nornir -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 20
+2018-10-29 10:27:40,226 -       nornir -    DEBUG -        run() - {'command_string': 'show interfaces'}
+2018-10-29 10:27:40,226 -       nornir -    DEBUG -        run() - {'command_string': 'show interfaces'}
+2018-10-29 10:27:40,231 -       nornir -     INFO -      start() - rtr1: netmiko_send_command: running task
+2018-10-29 10:27:40,231 -       nornir -     INFO -      start() - rtr1: netmiko_send_command: running task
+2018-10-29 10:27:40,232 -       nornir -     INFO -        run() - Running task 'netmiko_connection' with num_workers: 1
+2018-10-29 10:27:40,232 -       nornir -     INFO -        run() - Running task 'netmiko_connection' with num_workers: 1
+2018-10-29 10:27:40,232 -       nornir -    DEBUG -        run() - {}
+2018-10-29 10:27:40,232 -       nornir -    DEBUG -        run() - {}
+2018-10-29 10:27:40,232 -       nornir -     INFO -      start() - rtr1: netmiko_connection: running task
+2018-10-29 10:27:40,232 -       nornir -     INFO -      start() - rtr1: netmiko_connection: running task
+2018-10-29 10:35:59,464 -       nornir -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 20
+2018-10-29 10:35:59,464 -       nornir -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 20
+2018-10-29 10:35:59,465 -       nornir -    DEBUG -        run() - {'command_string': 'sh xml'}
+2018-10-29 10:35:59,465 -       nornir -    DEBUG -        run() - {'command_string': 'sh xml'}
+2018-10-29 10:35:59,470 -       nornir -     INFO -      start() - rtr1: netmiko_send_command: running task
+2018-10-29 10:35:59,470 -       nornir -     INFO -      start() - rtr1: netmiko_send_command: running task
+2018-10-29 10:35:59,471 -       nornir -     INFO -        run() - Running task 'netmiko_connection' with num_workers: 1
+2018-10-29 10:35:59,471 -       nornir -     INFO -        run() - Running task 'netmiko_connection' with num_workers: 1
+2018-10-29 10:35:59,471 -       nornir -    DEBUG -        run() - {}
+2018-10-29 10:35:59,471 -       nornir -    DEBUG -        run() - {}
+2018-10-29 10:35:59,472 -       nornir -     INFO -      start() - rtr1: netmiko_connection: running task
+2018-10-29 10:35:59,472 -       nornir -     INFO -      start() - rtr1: netmiko_connection: running task
+2018-10-29 10:36:04,669 -       nornir -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 20
+2018-10-29 10:36:04,669 -       nornir -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 20
+2018-10-29 10:36:04,669 -       nornir -    DEBUG -        run() - {'command_string': ' sh version'}
+2018-10-29 10:36:04,669 -       nornir -    DEBUG -        run() - {'command_string': ' sh version'}
+2018-10-29 10:36:04,676 -       nornir -     INFO -      start() - rtr1: netmiko_send_command: running task
+2018-10-29 10:36:04,676 -       nornir -     INFO -      start() - rtr1: netmiko_send_command: running task
+2018-10-29 10:36:04,676 -       nornir -     INFO -        run() - Running task 'netmiko_connection' with num_workers: 1
+2018-10-29 10:36:04,676 -       nornir -     INFO -        run() - Running task 'netmiko_connection' with num_workers: 1
+2018-10-29 10:36:04,677 -       nornir -    DEBUG -        run() - {}
+2018-10-29 10:36:04,677 -       nornir -    DEBUG -        run() - {}
+2018-10-29 10:36:04,677 -       nornir -     INFO -      start() - rtr1: netmiko_connection: running task
+2018-10-29 10:36:04,677 -       nornir -     INFO -      start() - rtr1: netmiko_connection: running task
+2018-10-29 10:36:26,314 -       nornir -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 20
+2018-10-29 10:36:26,314 -       nornir -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 20
+2018-10-29 10:36:26,315 -       nornir -    DEBUG -        run() - {'command_string': 'sh run xml'}
+2018-10-29 10:36:26,315 -       nornir -    DEBUG -        run() - {'command_string': 'sh run xml'}
+2018-10-29 10:36:26,321 -       nornir -     INFO -      start() - rtr1: netmiko_send_command: running task
+2018-10-29 10:36:26,321 -       nornir -     INFO -      start() - rtr1: netmiko_send_command: running task
+2018-10-29 10:36:26,322 -       nornir -     INFO -        run() - Running task 'netmiko_connection' with num_workers: 1
+2018-10-29 10:36:26,322 -       nornir -     INFO -        run() - Running task 'netmiko_connection' with num_workers: 1
+2018-10-29 10:36:26,322 -       nornir -    DEBUG -        run() - {}
+2018-10-29 10:36:26,322 -       nornir -    DEBUG -        run() - {}
+2018-10-29 10:36:26,323 -       nornir -     INFO -      start() - rtr1: netmiko_connection: running task
+2018-10-29 10:36:26,323 -       nornir -     INFO -      start() - rtr1: netmiko_connection: running task
+2018-10-29 10:36:31,732 -       nornir -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 20
+2018-10-29 10:36:31,732 -       nornir -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 20
+2018-10-29 10:36:31,732 -       nornir -    DEBUG -        run() - {'command_string': ' sh version'}
+2018-10-29 10:36:31,732 -       nornir -    DEBUG -        run() - {'command_string': ' sh version'}
+2018-10-29 10:36:31,741 -       nornir -     INFO -      start() - rtr1: netmiko_send_command: running task
+2018-10-29 10:36:31,741 -       nornir -     INFO -      start() - rtr1: netmiko_send_command: running task
+2018-10-29 10:36:31,741 -       nornir -     INFO -        run() - Running task 'netmiko_connection' with num_workers: 1
+2018-10-29 10:36:31,741 -       nornir -     INFO -        run() - Running task 'netmiko_connection' with num_workers: 1
+2018-10-29 10:36:31,741 -       nornir -    DEBUG -        run() - {}
+2018-10-29 10:36:31,741 -       nornir -    DEBUG -        run() - {}
+2018-10-29 10:36:31,741 -       nornir -     INFO -      start() - rtr1: netmiko_connection: running task
+2018-10-29 10:36:31,741 -       nornir -     INFO -      start() - rtr1: netmiko_connection: running task
+2018-10-29 11:23:55,769 -       nornir -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 20
+2018-10-29 11:23:55,769 -       nornir -     INFO -        run() - Running task 'netmiko_send_command' with num_workers: 20
+2018-10-29 11:23:55,770 -       nornir -    DEBUG -        run() - {'command_string': 'show interfaces'}
+2018-10-29 11:23:55,770 -       nornir -    DEBUG -        run() - {'command_string': 'show interfaces'}
+2018-10-29 11:23:55,775 -       nornir -     INFO -      start() - rtr1: netmiko_send_command: running task
+2018-10-29 11:23:55,775 -       nornir -     INFO -      start() - rtr1: netmiko_send_command: running task
+2018-10-29 11:23:55,776 -       nornir -     INFO -        run() - Running task 'netmiko_connection' with num_workers: 1
+2018-10-29 11:23:55,776 -       nornir -     INFO -        run() - Running task 'netmiko_connection' with num_workers: 1
+2018-10-29 11:23:55,776 -       nornir -    DEBUG -        run() - {}
+2018-10-29 11:23:55,776 -       nornir -    DEBUG -        run() - {}
+2018-10-29 11:23:55,777 -       nornir -     INFO -      start() - rtr1: netmiko_connection: running task
+2018-10-29 11:23:55,777 -       nornir -     INFO -      start() - rtr1: netmiko_connection: running task
